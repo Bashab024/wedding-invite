@@ -3,7 +3,7 @@
  */
 (function ($) {
   "use strict";
-  $(".untoldcoding-falling").sakura("start", {
+  $(". Marriage-invite").sakura("start", {
     blowAnimations: ["blow-soft-left"],
     className: "sakura",
     fallSpeed: 2.5,
