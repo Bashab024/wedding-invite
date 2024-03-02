@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from Assam<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play football</p>
 
 ###
 
