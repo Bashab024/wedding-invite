@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from Assam<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play football</p>
+<p align="left">I'm ... from Assam<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play football & Video Game</p>
 
 ###
 
